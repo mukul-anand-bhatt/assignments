@@ -12,7 +12,7 @@ export function Assignment2() {
         alert(inputText);
     },[inputText])
     // Your code ends here
-
+    
     return (
         <div>
             <input
